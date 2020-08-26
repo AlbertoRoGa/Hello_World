@@ -8,3 +8,5 @@ Este es un repositorio inicial de Git
 3. Ecuaciones Diferenciales
 
 ### Este repocitorio también tiene la lista de compras 
+
+En este repositorio está trabajando una persona externa.
